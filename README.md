@@ -57,7 +57,7 @@ Coursera teacher did make a good lectures which are understandable and even a bi
 The last part of the learning task was the most exciting so far! I had good practical experience with everything what I have learnt in this part of the stage.
 
 <details>
-<summary>Intro to HTML&CSS</summary>
+<summary>Codecademy</summary>
     <img src="img/stage0-7.png" alt="Intro to HTML and CSS screen 2">
 </details>
 
